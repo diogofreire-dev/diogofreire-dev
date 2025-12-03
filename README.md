@@ -32,10 +32,6 @@ I'm building various projects to:
 
 Each repository is a step forward in my learning journey. Some might be rough around the edges, but that's part of the process!
 
-## GitHub Stats
-
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogofreire-dev&show_icons=true&theme=tokyonight)
-
 ## Current Focus
 
 ```javascript
