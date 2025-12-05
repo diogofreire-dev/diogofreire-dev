@@ -1,7 +1,5 @@
 # I'm Diogo Freire
 
-> *"The best way to predict the future is to create it"*
-
 ## About Me
 
 Hey! I'm a **12th grade student** from Portugal passionate about programming and technology. I'm on a journey to discover what path I want to take in the world of software development, and I'm exploring everything I can along the way!
