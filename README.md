@@ -8,38 +8,11 @@ Hey! I'm a **12th grade student** from Portugal passionate about programming and
 - Learning new technologies and frameworks
 - Open to new ideas, collaborations, and learning opportunities
 - Goal: Build cool stuff while figuring out what excites me the most in tech
-- Taking CS50 and other courses to strengthen my foundations
+- Taking Courses to strengthen my foundations
 
-## Technologies I'm Exploring
-
-```python
-learning_stack = {
-    "languages": ["Python", "PHP", "JavaScript"],
-    "currently_playing_with": ["Web Development", "Data Science", "Automation"],
-    "tools": ["Git", "VS Code", "GitHub"],
-}
-```
-
-## What I'm Up To
-
-I'm building various projects to:
-- **Understand different programming paradigms**
-- **Solve real problems** (even small ones!)
-- **Learn by doing** - because that's the best way
-- **Document my journey** for future reference and to help others
 
 Each repository is a step forward in my learning journey. Some might be rough around the edges, but that's part of the process!
 
-## Current Focus
-
-```javascript
-const currentGoals = [
-  "Building projects that matter",
-  "Understanding CS fundamentals deeply",
-  "Connecting with the dev community",
-  "Finding my passion within programming"
-];
-```
 
 ## Let's Connect!
 
