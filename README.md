@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey! I'm a **12th grade student** from Portugal passionate about programming and technology. I'm on a journey to discover what path I want to take in the world of software development, and I'm exploring everything I can along the way!
+Hey! I'm from Portugal and someone whos passionate about programming and technology. I'm on a journey to discover what path I want to take in the world of software development, and I'm exploring everything I can along the way!
 
 - Currently experimenting with different projects to find my niche
 - Learning new technologies and frameworks
