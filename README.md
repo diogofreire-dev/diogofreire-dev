@@ -1,31 +1,35 @@
-# I'm Diogo Freire
+```console
+diogo@portugal:~$ whoami
+Diogo Freire, cybersecurity student at ISTEC (CTeSP) who builds web and mobile apps.
+I like taking a project all the way: from the database and the code
+to the server it runs on, and then trying to break it.
+```
 
-## About Me
-
-Hey! I'm from Portugal and someone whos passionate about programming and technology. I'm on a journey to discover what path I want to take in the world of software development, and I'm exploring everything I can along the way!
-
-- Currently experimenting with different projects to find my niche
-- Learning new technologies and frameworks
-- Open to new ideas, collaborations, and learning opportunities
-- Goal: Build cool stuff while figuring out what excites me the most in tech
-- Taking Courses to strengthen my foundations
-
-
-Each repository is a step forward in my learning journey. Some might be rough around the edges, but that's part of the process!
-
-
-## Let's Connect!
-
-I'm always happy to chat about code, share experiences, or collaborate on interesting projects!
-
-**Reach me at:** diogofreire1@gmail.com
+🌐 **Portfolio:** [diogofreire-dev.github.io](https://diogofreire-dev.github.io/)
 
 ---
 
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+### `ls ~/projects`
 
-*Still learning, always coding*
+| Project | What it is | Stack |
+|---|---|---|
+| [**Finora**](https://github.com/diogofreire-dev/Finora) | Personal finance web app, built with a classmate as our final school project (PAP) and still growing. Audited against the OWASP Top 10, deployed on Azure. [Live site](https://finora.spaincentral.cloudapp.azure.com/site/) | PHP · MariaDB · JavaScript |
+| [**STRK**](https://github.com/diogofreire-dev/STRK) | Habit tracker built around streaks, with Firebase keys kept out of the repo and CI on every push. | Flutter · Dart · Firebase |
+| [**Rick and Morty Explorer**](https://github.com/diogofreire-dev/RickAndMorty) | Hybrid mobile app that consumes the Rick and Morty API. | Ionic · Vue 3 · TypeScript |
+| [**learning-c**](https://github.com/diogofreire-dev/learning-c) | My path through C for cybersecurity: pointers and memory, then gdb and assembly. | C |
+| [**learning-with-python**](https://github.com/diogofreire-dev/learning-with-python) | Exercises and projects from Harvard's CS50P. | Python |
 
-</div>
+### `cat skills.txt`
+
+```text
+languages   PHP, JavaScript, TypeScript, Python, Dart, C, SQL
+frameworks  Vue 3, Ionic, Flutter, Bootstrap, three.js
+servers     Linux (Ubuntu), Apache, MariaDB/MySQL, Azure VMs, Firebase
+security    OWASP Top 10, secure sessions, secrets management, OverTheWire
+tools       Git, GitHub Actions, gdb
+```
+
+### `ping diogo`
+
+Open to internships, collaborations and conversations about code or security.<br>
+📫 [diogoffreire1@gmail.com](mailto:diogoffreire1@gmail.com)
