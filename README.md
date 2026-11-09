@@ -1,4 +1,4 @@
-## Hi, I'm Diogo Freire 👋
+## Hi, I'm Diogo Freire
 
 Cybersecurity student at ISTEC (CTeSP) in Portugal, with a focus on secure web development.
 I build web and mobile apps and take care of the whole stack, from the database to deployment.
